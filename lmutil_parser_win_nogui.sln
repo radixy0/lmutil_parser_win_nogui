@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lmutil_parser_win_nogui", "lmutil_parser_win_nogui.csproj", "{87F93EA1-1535-4413-A38C-D9F44F4D32F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F93EA1-1535-4413-A38C-D9F44F4D32F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F93EA1-1535-4413-A38C-D9F44F4D32F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F93EA1-1535-4413-A38C-D9F44F4D32F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F93EA1-1535-4413-A38C-D9F44F4D32F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F91EED9-2F46-46F8-B6B9-5E662BE937DA}
+	EndGlobalSection
+EndGlobal
